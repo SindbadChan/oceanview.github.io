@@ -1,0 +1,202 @@
+[
+    {
+        "moni_type":"wind",
+        "dev_type":"测点1",
+        "dev_id":"unman_ship_001",
+        "lng": 113.57,
+        "lat": 20.27, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 61,
+        "status": "normal",
+        "info": []
+    },
+    {
+        "moni_type":"wind",
+        "dev_type":"测点2",
+        "dev_id":"unman_ship_002",
+        "lng": 112.57,
+        "lat": 19.27, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 137,
+        "status": "warn",
+        "info": []
+    },
+    {
+        "moni_type":"water",
+        "dev_type":"测点3",
+        "dev_id":"unman_ship_002",
+        "lng": 114.27,
+        "lat": 21.47, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 258,
+        "status": "error",
+        "info": []
+    },
+    {
+        "moni_type":"water",
+        "dev_type":"测点4",
+        "dev_id":"windsurfing_vehicle_001",
+        "lng": 116.27,
+        "lat": 19.97, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 0,
+        "status": "normal",
+        "info": []
+    },
+    {
+        "moni_type":"water",
+        "dev_type":"测点5",
+        "dev_id":"windsurfing_vehicle_002",
+        "lng": 117.0,
+        "lat": 19.0, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 45,
+        "status": "normal",
+        "info": []
+    },
+    {
+        "moni_type":"temperature",
+        "dev_type":"测点6",
+        "dev_id":"air_dropped_underwater_glider_001",
+        "lng": 117.5,
+        "lat": 18.4, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 90,
+        "status": "warn",
+        "info": []
+    },
+    {
+        "moni_type":"temperature",
+        "dev_type":"测点7",
+        "dev_id":"air_dropped_underwater_glider_002",
+        "lng": 115.5,
+        "lat": 18, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 135,
+        "status": "normal",
+        "info": []
+    },
+    {
+        "moni_type":"temperature",
+        "dev_type":"测点8",
+        "dev_id":"portable_underwater_glider_001",
+        "lng": 117.5,
+        "lat": 22, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 135,
+        "status": "normal",
+        "info": []
+    },
+    {
+        "moni_type":"pressure",
+        "dev_type":"测点9",
+        "dev_id":"portable_underwater_glider_002",
+        "lng": 118.5,
+        "lat": 21, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 45,
+        "status": "normal",
+        "info": []
+    },
+    {
+        "moni_type":"pressure",
+        "dev_type":"测点10",
+        "dev_id":"fast_profile_underwater_glider_001",
+        "lng": 116.43,
+        "lat": 20.7, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 80,
+        "status": "normal",
+        "info": []
+    },
+    {
+        "moni_type":"pressure",
+        "dev_type":"测点11",
+        "dev_id":"air_sea_interface_drift_buoy_001",
+        "lng": 114.43,
+        "lat": 19.7, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 0,
+        "status": "normal",
+        "info": []
+    },
+    {
+        "moni_type":"depth",
+        "dev_type":"测点12",
+        "dev_id":"air_sea_interface_drift_buoy_002",
+        "lng": 115.43,
+        "lat": 20.7, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 0,
+        "status": "warn",
+        "info": []
+    },
+    {
+        "moni_type":"depth",
+        "dev_type":"测点13",
+        "dev_id":"sea_float_001",
+        "lng": 115.23,
+        "lat": 18.4, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 0,
+        "status": "normal",
+        "info": []
+    },
+    {
+        "moni_type":"depth",
+        "dev_type":"测点14",
+        "dev_id":"sea_float_002",
+        "lng": 113.63,
+        "lat": 19.4, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 0,
+        "status": "error",
+        "info": []
+    },
+    {
+        "moni_type":"pressure",
+        "dev_type":"测点15",
+        "dev_id":"small_section_buoy_001",
+        "lng": 118.63,
+        "lat": 19.4, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 0,
+        "status": "normal",
+        "info": []
+    },
+    {
+        "moni_type":"pressure",
+        "dev_type":"测点16",
+        "dev_id":"small_seabed_foundation_001",
+        "lng": 119.63,
+        "lat": 18.4, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 0,
+        "status": "normal",
+        "info": []
+    },
+    {
+        "moni_type":"water",
+        "dev_type":"测点17",
+        "dev_id":"seabed_based_001",
+        "lng": 119.3,
+        "lat": 17.6, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 0,
+        "status": "normal",
+        "info": []
+    },
+    {
+        "moni_type":"water",
+        "dev_type":"测点18",
+        "dev_id":"seabed_based_001",
+        "lng": 119.8,
+        "lat": 17.8, 
+        "time": "2022-12-08 10:56:30",
+        "dir": 0,
+        "status": "normal",
+        "info": []
+    }
+
+    
+]
